@@ -16,3 +16,16 @@ The OpenCV-ImageResizer is a Python script that utilizes the OpenCV library to r
 
    ```bash
    git clone https://github.com/your-username/your-repository.git
+
+Install the required libraries (if not already installed):  pip install opencv-python
+<br>
+Run the script:python ImageResizer.py
+<br>
+## Script Details
+
+source: Path to the source image.
+<br>
+destination: Path to save the scaled image.
+<br>
+scale_percent: Percentage by which the image will be scaled.
+
